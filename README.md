@@ -26,7 +26,7 @@ One item in the store page:<br>
 <img src="images/store_page.png" width="300">
 
 Contact page:<br>
-<img src="images/contact.png" width="300">
+<img src="images/contact_page.png" width="300">
 
 
 
